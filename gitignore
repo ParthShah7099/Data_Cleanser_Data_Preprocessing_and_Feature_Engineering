@@ -1,0 +1,53 @@
+# ──────────────────────────────────────────────────────────────
+# .gitignore — Data Cleanser Project
+# Author: THE PARTH SHAH
+# ──────────────────────────────────────────────────────────────
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Large video files (upload separately to Google Drive / YouTube)
+*.mp4
+*.mov
+*.avi
+
+# Byte-compiled
+*.pyc
