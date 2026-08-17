@@ -22,7 +22,7 @@
 
 ---
 
-**TL;DR:** Transforms a synthetic patient health records dataset — 200 rows, 9 columns — from messy and incomplete into a machine-learning-ready masterpiece. Six imputation strategies. Four outlier methods. Zero missing values. Zero excuses. **Python · pandas · NumPy · scikit-learn · SciPy · Matplotlib.** [→ Notebook](./Data_Cleanser_ParthShah.ipynb) · [→ Video Walkthrough](https://youtu.be/0IuTv7J02sc)
+**TL;DR:** Transforms a synthetic patient health records dataset — 200 rows, 9 columns — from messy and incomplete into a machine-learning-ready masterpiece. Six imputation strategies. Four outlier methods. Zero missing values. Zero excuses. **Python · pandas · NumPy · scikit-learn · SciPy · Matplotlib.** [→ Notebook](./Data_Cleanser.ipynb) · [→ Video Walkthrough](https://youtu.be/0IuTv7J02sc)
 
 ---
 
